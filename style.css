@@ -235,7 +235,7 @@ h4 {
     font-style: oblique;
     
 }
-@media(max-width: 925px){
+@media(max-width: 1000px){
     lable.logo{
         font-size: 30px;
         padding-left: 50px;
@@ -244,7 +244,7 @@ h4 {
         font-size: 16px;
     }
 }
-@media(max-width: 925px){
+@media(max-width: 1000px){
     .checkbtn{
         display: block;
     }
